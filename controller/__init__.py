@@ -1,2 +1,2 @@
-__author__ = "Suyash Soni"
+__author__ = "Javed Ali"
 __email__ = "suyash.soni248@gmail.com"
